@@ -1,0 +1,67 @@
+body{
+    max-height: 480px;
+    max-width: 320px;
+
+    height:480px;
+    width:3200px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    border: 1px solid black;
+    background: rgb(72, 218, 255);
+
+    margin:0px auto;
+
+    text-align: center;
+
+    font-size: 24px;
+}
+
+.autorizationBtn{
+    height: 60px;
+    width: 240px;
+
+    font-size: 24px;
+
+    margin-top:30px;
+}
+
+.inputField{
+    margin-top:30px;
+    width: 240px;
+    font-size: 24px;
+}
+
+.unschAcceptkBtn{
+    height: 60px;
+    width: 240px;
+
+    font-size: 20px;
+}
+
+.mainPageBtn{
+    margin-top:10px;
+
+    height:40px;
+    width:120px;
+}
+
+.scanPageBtn{
+    height: 60px;
+    width: 240px;
+
+    margin-top:30px;
+
+    font-size: 24px;
+}
+
+.inputProductPlace{
+    height: 4em;
+    width: 240px;
+
+    margin-top:30px;
+
+    font-size: 24px;
+}
